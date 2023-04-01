@@ -11,4 +11,4 @@ Criado para armazenar meus estudos e desenvolvimentos em Java
 - git log
 - git diff <NomeDoArquivo>
 - git checkout <NomeDaBranch> (Acessar Branch)
-- git checkout **-b** <NomeDaNovaBranch>
+- git checkout -b <NomeDaNovaBranch>
